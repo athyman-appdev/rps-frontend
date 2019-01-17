@@ -1,0 +1,47 @@
+body {
+    color: red;
+}
+
+.fancy-link {
+    text-align: center;
+    border-color: rgb(23, 162, 184);
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 100%;
+    border-radius: 10px;
+    color: rgb(23, 162, 184);
+    text-decoration: none;
+
+    transition-duration: .5s;
+    transition-property: all;
+
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.fancy-link:hover {
+    background-color: rgb(23, 162, 184);
+    color: white;
+
+}
+
+.fancy-link-active {
+    text-align: center;
+    border-color: rgb(23, 162, 184);
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 100%;
+    border-radius: 10px;
+    background-color: rgb(23, 162, 184);
+    color: white;
+    text-decoration: none;
+
+
+    transition-duration: .5s;
+    transition-property: all;
+
+    padding: 5px;
+    box-sizing: border-box;
+}
