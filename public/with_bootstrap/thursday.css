@@ -14,17 +14,9 @@
 }
 
 h1 {
-    font-family: 'Cabin Sketch', cursive;
-    font-weight: normal;
+        font-weight: normal;
 }
 
-h2 {
-    font-family: 'Cabin Sketch', cursive;
-}
-
-body {
-    font-family: 'Neucha', cursive;
-}
 
 .panel-win {
     border-color: green;
